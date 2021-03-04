@@ -1,0 +1,13 @@
+{
+    "Servers": {
+      "1": {
+        "Name": "Development DB",
+        "Group": "Servers",
+        "Port": 5432,
+        "Username": "ecommerce",
+        "Host": "ecommerce-psql",
+        "SSLMode": "prefer",
+        "MaintenanceDB": "db_ecommerce"
+      }
+    }
+  }
